@@ -20,3 +20,7 @@ ___
 ___
 # Merge Conflicts
 Merge conflicts happen changes are made to the same part of the same file on two different branches. _There are merge conflict markers to show you where the conflict happened._
+#### General steps to resolve merge conflicts
+1. Check to see if there is a conflict and look for where it occurs (using pull request & markers).
+2. Make a final change to that part & delete markers. 
+3. Commit change. 
