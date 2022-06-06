@@ -17,3 +17,4 @@ ___
 - $ git pull: take the newest changes for the latest version on Github to the version in our computer. 
 - $ git log: display the history of changes/commits have been made. 
 - $ git reset: convert to the previous state of change. 
+___
