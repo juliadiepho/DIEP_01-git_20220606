@@ -9,3 +9,5 @@ Git is used to track changes to code and to synchronize code with other people.
 - $ git add <filename>: add a file to track changes within that file.
 - $ git commit -m "message": commit a change with a message.
 - $ git commit -am "message": commit all the files that have been changed.
+___
+#### Basic Git Commands (continued)
