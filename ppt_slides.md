@@ -19,3 +19,4 @@ ___
 - $ git reset: convert to the previous state of change. 
 ___
 # Merge Conflicts
+Merge conflicts happen changes are made to the same part of the same file on two different branches. _There are merge conflict markers to show you where the conflict happened._
