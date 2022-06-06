@@ -34,3 +34,4 @@ A method of moving into a new direction when creating a new feature, and only co
 - Commit any changes to each branch and merge the branches using $ git merge <other branch name>. 
 ___
 # Additional GitHub Features
+1. Forking: creates a copy of any repository that you have access to and this copy is owned by you.
