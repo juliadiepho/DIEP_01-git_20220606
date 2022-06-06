@@ -28,3 +28,6 @@ ___
 # Branching
 A method of moving into a new direction when creating a new feature, and only combining this new feature with the main part of your code, or the main branch, once you’re finished. 
 #### Implementing branching in git repo
+- $ git branch: see which branch you're currently working on.
+- $ git checkout -b <name>: create a new branch. 
+- $ git checkout <name>: switch between branches.
