@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: gaia
+author: Minh Diep
 ---
 # Git Basics
 Git is used to track changes to code and to synchronize code with other people. 
