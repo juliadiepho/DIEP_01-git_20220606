@@ -27,3 +27,4 @@ Merge conflicts happen changes are made to the same part of the same file on two
 ___
 # Branching
 A method of moving into a new direction when creating a new feature, and only combining this new feature with the main part of your code, or the main branch, once you’re finished. 
+#### Implementing branching in git repo
