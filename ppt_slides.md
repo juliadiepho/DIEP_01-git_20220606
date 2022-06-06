@@ -24,3 +24,4 @@ Merge conflicts happen changes are made to the same part of the same file on two
 1. Check to see if there is a conflict and look for where it occurs (using pull request & markers).
 2. Make a final change to that part & delete markers. 
 3. Commit change. 
+___
