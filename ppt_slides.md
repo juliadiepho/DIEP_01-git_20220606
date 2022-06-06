@@ -36,3 +36,4 @@ ___
 # Additional GitHub Features
 1. Forking: creates a copy of any repository that you have access to and this copy is owned by you.
 2. Pull Requests: requests for new changes to be added to the main version of the repository. 
+3. GitHub Pages: a way to publish a static website to the web.
