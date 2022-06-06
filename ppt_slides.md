@@ -35,3 +35,4 @@ A method of moving into a new direction when creating a new feature, and only co
 ___
 # Additional GitHub Features
 1. Forking: creates a copy of any repository that you have access to and this copy is owned by you.
+2. Pull Requests: requests for new changes to be added to the main version of the repository. 
