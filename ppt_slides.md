@@ -26,6 +26,11 @@ Merge conflicts happen changes are made to the same part of the same file on two
 2. Make a final change to that part & delete markers. 
 3. Commit change. 
 ___
+# Merge Conflicts Markers
+- This is an example of merge conflict markers
+
+![width:1000px height:10cm](img_3.png)
+___
 # Branching
 A method of moving into a new direction when creating a new feature, and only combining this new feature with the main branch, once you’re finished. 
 #### Implementing branching in git repo
