@@ -11,3 +11,9 @@ Git is used to track changes to code and to synchronize code with other people.
 - $ git commit -am "message": commit all the files that have been changed.
 ___
 #### Basic Git Commands (continued)
+- $ git status: display what is going on inside the git.
+    - ex: what changes have not been committed, etc. 
+- $ git push: push the new commit to Github.
+- $ git pull: take the newest changes for the latest version on Github to the version in our computer. 
+- $ git log: display the history of changes/commits have been made. 
+- $ git reset: convert to the previous state of change. 
