@@ -18,3 +18,4 @@ ___
 - $ git log: display the history of changes/commits have been made. 
 - $ git reset: convert to the previous state of change. 
 ___
+# Merge Conflicts
