@@ -39,6 +39,12 @@ A method of moving into a new direction when creating a new feature, and only co
 - $ git checkout <name>: switch between branches.
 - Commit any changes to each branch and merge the branches using $ git merge <other branch name>. 
 ___
+# Branching (continued)
+- This is a simple visulization of branching. 
+
+![width:900px height:10cm](img_1.png)
+___
+
 # GitHub Workflow
 - This is a general workflow on GitHub
 
