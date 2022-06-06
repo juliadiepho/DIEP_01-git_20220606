@@ -29,7 +29,7 @@ ___
 # Merge Conflicts Markers
 - This is an example of merge conflict markers
 
-![width:1000px height:10cm](img_3.png)
+![width:1000px height:10cm](img/img_3.png)
 ___
 # Branching
 A method of moving into a new direction when creating a new feature, and only combining this new feature with the main branch, once you’re finished. 
@@ -42,13 +42,13 @@ ___
 # Branching (continued)
 - This is a simple visulization of branching. 
 
-![width:900px height:10cm](img_1.png)
+![width:900px height:10cm](img/img_1.png)
 ___
 
 # GitHub Workflow
 - This is a general workflow on GitHub
 
-![width:1000px height:10cm](img_2.png)
+![width:1000px height:10cm](img/img_2.png)
 ___
 # Additional GitHub Features
 1. Forking: creates a copy of any repository that you have access to and this copy is owned by you.
